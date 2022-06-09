@@ -1,0 +1,12 @@
+.pokemon-item{
+    display: block;
+    width: 100%;
+  }
+
+  img{
+    display: flex;
+    justify-content: center;
+  }
+  p{
+    text-align: center;
+  }
